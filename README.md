@@ -31,6 +31,21 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [
+        2020-07-28 20:47:00
+    ](https://github.com/MrDaubinet/mrdaubinet.github.io/commit/4108f1adba637770677946a8b57f302c4b2fcb73)
+- [
+        2020-07-28 17:18:12
+    ](https://github.com/MrDaubinet/mrdaubinet.github.io/commit/4cc205ef4baa8bc34fae98e3c29401a6d9210342)
+- [
+        2020-07-21 17:58:24
+    ](https://github.com/MrDaubinet/mrdaubinet.github.io/commit/e846583ec77bf2881de1ef9f68f68555194a3888)
+- [
+        2020-07-21 17:47:25
+    ](https://github.com/MrDaubinet/mrdaubinet.github.io/commit/9950d4cd476ca49757f5f088a2b29adead74755c)
+- [
+        2020-07-21 17:12:53
+    ](https://github.com/MrDaubinet/mrdaubinet.github.io/commit/34b17a6b3aaaf40d35d4e36c1338c6dffb5fd31a)
 <!-- BLOG-POST-LIST:END -->
 ---
 
