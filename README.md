@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The One True Version Control](https://mrdaubinet.github.io/The-One-True-Version-Control/)
+- [This is my world, and its all for me](https://mrdaubinet.github.io/This-is-Me/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
