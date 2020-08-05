@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 My Names ✨ Jordan Daubinet ✨ 
 - 🔭 I’m currently working on [My Blog](https://mrdaubinet.github.io/)
-- 🌱 I’m currently learning Natural Language Processing, Reinforcement Learning and Neural Style Transfer
-- 📫 How to reach me: 
+- 🌱 I’m currently learning Natural Language Processing 🔣 Reinforcement Learning 🤖 and Neural Style Transfer 🖼️
 
 ### Connect with me:
 
