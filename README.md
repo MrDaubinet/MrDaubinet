@@ -31,23 +31,23 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/MrDaubinet/assets/vscode_icon.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/MrDaubinet/assets/html_icon.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/MrDaubinet/assets/css_icon.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/assets/javascript_icon.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/assets/ember_icon.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/assets/svelte_icon.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/assets/sapper_icon.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/MrDaubinet/assets/mysql_icon.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/MrDaubinet/assets/node_icon.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/MrDaubinet/assets/mongo_icon.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/MrDaubinet/assets/git_icon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/assets/github_icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/assets/gcp_icon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/assets/python_icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/assets/tensorflow_icon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/assets/keras_icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/assets/pytorch_icon.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/vscode_icon.png?raw=true" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/html_icon.png?raw=true" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/css_icon.png?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/javascript_icon.svg?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/ember_icon.png?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/svelte_icon.png?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/sapper_icon.png?raw=true" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/mysql_icon.svg?raw=true" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/node_icon.svg?raw=true" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/mongo_icon.png?raw=true" />
+<img align="left" alt="Git" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/git_icon.png?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/github_icon.svg?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/gcp_icon.png?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/python_icon.svg?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/tensorflow_icon.png?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/keras_icon.svg?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/MrDaubinet/MrDaubinet/blob/master/assets/pytorch_icon.svg?raw=true" />
 
 <br />
 <br />
