@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<img align="left" alt="MrDaubinet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrDaubinet&show_icons=true&hide_border=true" />
+<img align="left" alt="MrDaubinet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrDaubinet&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://mrdaubinet.github.io/
 [instagram]: https://www.instagram.com/jordan_daubinet/
