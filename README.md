@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 My Name is ✨ Jordan Daubinet ✨ 
-- 🔭 I’m currently working on [My Blog](https://mrdaubinet.github.io/)
+- 🔭 I’m currently working mainly on my masters and a little on [My Blog](https://mrdaubinet.github.io/) 
 - 🌱 I’m currently learning: 
 
   -> 🔣 Natural Language Processing  
