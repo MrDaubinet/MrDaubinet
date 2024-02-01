@@ -1,29 +1,14 @@
-<!--
-**MrDaubinet/MrDaubinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋 My Name is ✨ Jordan Daubinet ✨ 
 🔭 I’m currently working on Atmostpheric Forecasting at Jua.ai 🌐
 
 🌱 My current interests are: 
-  -> 🎆 Vision based transformers
-  -> 🤖 Reinforcement Learning   
-  -> 🖼️ Neural Style Transfer
+- 🎆 Vision based transformers
+- 🤖 Reinforcement Learning   
+- 🖼️ Neural Style Transfer
 
 📫 To reach out, send an email to daubinet.jordan@gmail.com
 
-My little blog at [My Blog](https://mrdaubinet.github.io/) 
+My (old) little blog [here](https://mrdaubinet.github.io/) 
 <br />
 
 ### Languages and Tools:
