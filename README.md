@@ -8,25 +8,22 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ### Hi there 👋 My Name is ✨ Jordan Daubinet ✨ 
-- 🔭 I’m currently working mainly on my masters and a little on [My Blog](https://mrdaubinet.github.io/) 
-- 🌱 I’m currently learning: 
+🔭 I’m currently working on Atmostpheric Forecasting at Jua.ai 🌐
 
-  -> 🔣 Natural Language Processing  
+🌱 My current interests are: 
+  -> 🎆 Vision based transformers
   -> 🤖 Reinforcement Learning   
-  -> 🖼️ Neural Style Transfer 
+  -> 🖼️ Neural Style Transfer
 
-### Connect with me:
+📫 To reach out, send an email to daubinet.jordan@gmail.com
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+My little blog at [My Blog](https://mrdaubinet.github.io/) 
 <br />
 
 ### Languages and Tools:
